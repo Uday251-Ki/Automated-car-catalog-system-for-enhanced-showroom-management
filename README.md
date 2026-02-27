@@ -1,6 +1,6 @@
 # Automated-car-catalog-system-for-enhanced-showroom-management
 The Automated Car Catalog System is a ServiceNow-based solution that digitizes and automates the car booking and approval process. It streamlines showroom operations through structured workflows, task tracking, and automated notifications. Automated Car Catalog System for Enhanced Showroom Management Overview
-The Automated Car Catalog System is a workflow automation project developed using the ServiceNow platform. The system digitizes and streamlines the vehicle booking and approval process within a car showroom environment. It replaces manual paperwork and email-based approvals with a structured, automated workflow.
+The Automated Car Catalog System is a workflow automation project developed using the ServiceNow platform. The system digitizes and streamlines the vehicle booking and approval process within a car showroom environment. It replaces manual paperwork and email-based approvals with a structured,automated workflow.
 PROJECT OBJECTIVE
 The main objective of this project is to automate the car booking lifecycle — from customer request submission to multi-level approval and final notification — while ensuring transparency, accountability, and operational efficiency.
 KEY FEATURES
@@ -33,8 +33,4 @@ Improves overall showroom management efficiency.
 TEAM DETAILS:
 Team ID : LTVIP2026TMIDS66407
 Team Size : 4
-Team Leader : G.Uday Kiran
-Team member : Kotha Manohar
-Team member : Majji Madhuri
-Team member : Pogala Sandya
-
+Team Leader : G.Uday Kiran Team Members:Kotha Manohar, Majji Madhuri,Pogala Sandya.
