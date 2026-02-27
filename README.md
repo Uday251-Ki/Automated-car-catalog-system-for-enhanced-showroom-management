@@ -4,18 +4,18 @@ The Automated Car Catalog System is a workflow automation project developed usin
 
 
 
-Project Objective
+Project Objective:
 The main objective of this project is to automate the car booking lifecycle — from customer request submission to multi-level approval and final notification — while ensuring transparency, accountability, and operational efficiency.
 
 
 
-Key Features
-Online car booking through Service Catalog
-Automated multi-level approval (Sales Person and Supervisor)
-Catalog task creation for tracking
-Automated email notifications (Approval/Rejection)
-Centralized record management
-Audit trail and role-based access control
+Key Features:
+Online car booking through Service Catalog,
+Automated multi-level approval (Sales Person and Supervisor),
+Catalog task creation for tracking,
+Automated email notifications (Approval/Rejection),
+Centralized record management,
+Audit trail and role-based access control.
 
 
 
@@ -28,24 +28,24 @@ If approved, request moves to Supervisor for second-level approval.
 
 
 Based on the final decision:
-Success record is created and approval email is sent.
-Rejection record is created and rejection email is sent.
-Technologies Used
-ServiceNow Platform
-Service Catalog
-Flow Designer
-Email Notification Engine
-Role-Based Access Control
+Success record is created and approval email is sent,
+Rejection record is created and rejection email is sent,
+Technologies Used,
+ServiceNow Platform,
+Service Catalog,
+Flow Designer,
+Email Notification Engine,
+Role-Based Access Control.
 
 
 
 
-Benefits
-Reduces manual processing time
-Improves approval accuracy
-Enhances transparency and tracking
-Ensures process standardization
-Improves overall showroom management efficiency
+Benefits:
+Reduces manual processing time,
+Improves approval accuracy,
+Enhances transparency and tracking,
+Ensures process standardization,
+Improves overall showroom management efficiency.
 
 
 
